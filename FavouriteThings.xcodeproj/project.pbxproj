@@ -15,6 +15,8 @@
 		F223B1EF25113E3200F17868 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F223B1ED25113E3200F17868 /* LaunchScreen.storyboard */; };
 		F223B1F72511433B00F17868 /* SR250055.JPG.pdf in Resources */ = {isa = PBXBuildFile; fileRef = F223B1F62511433A00F17868 /* SR250055.JPG.pdf */; };
 		F223B1F92511456E00F17868 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F223B1F82511456E00F17868 /* SwiftUIView.swift */; };
+		F248D8BF251A83E900A97980 /* AboutMeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F248D8BE251A83E900A97980 /* AboutMeView.swift */; };
+		F248D8C2251A848200A97980 /* ThingsIAmPassionateAbout.swift in Sources */ = {isa = PBXBuildFile; fileRef = F248D8C1251A848200A97980 /* ThingsIAmPassionateAbout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		F223B1F025113E3200F17868 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F223B1F62511433A00F17868 /* SR250055.JPG.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = SR250055.JPG.pdf; path = ../../../SR250055.JPG.pdf; sourceTree = "<group>"; };
 		F223B1F82511456E00F17868 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		F248D8BE251A83E900A97980 /* AboutMeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutMeView.swift; sourceTree = "<group>"; };
+		F248D8C1251A848200A97980 /* ThingsIAmPassionateAbout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThingsIAmPassionateAbout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +73,8 @@
 				F223B1ED25113E3200F17868 /* LaunchScreen.storyboard */,
 				F223B1F025113E3200F17868 /* Info.plist */,
 				F223B1EA25113E3200F17868 /* Preview Content */,
+				F248D8BE251A83E900A97980 /* AboutMeView.swift */,
+				F248D8C1251A848200A97980 /* ThingsIAmPassionateAbout.swift */,
 			);
 			path = FavouriteThings;
 			sourceTree = "<group>";
@@ -154,8 +160,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				F223B1E325113E2800F17868 /* AppDelegate.swift in Sources */,
+				F248D8C2251A848200A97980 /* ThingsIAmPassionateAbout.swift in Sources */,
 				F223B1E525113E2800F17868 /* SceneDelegate.swift in Sources */,
 				F223B1F92511456E00F17868 /* SwiftUIView.swift in Sources */,
+				F248D8BF251A83E900A97980 /* AboutMeView.swift in Sources */,
 				F223B1E725113E2800F17868 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
