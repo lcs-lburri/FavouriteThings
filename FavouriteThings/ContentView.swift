@@ -17,6 +17,9 @@ struct ContentView: View {
                 NavigationLink(destination: AboutMeView()) {
                     Text("About me")
                 }
+                NavigationLink(destination: ThingsIAmPassionateAbout()) {
+                    Text("Things I Am Passionate About")
+                }
             }
     }
 }
