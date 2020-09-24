@@ -20,7 +20,7 @@ struct AboutMeView: View {
             Image("Hockey")
                 .resizable()
                 .scaledToFit()
-            Text("I was born in toronto, Canada and I know live in lakefield a small town north west of toronto. At lakefield I go to school at LCS a private school")
+            Text("I was born in toronto, Canada and I know live in lakefield a small town north west of toronto. At lakefield I go to school at LCS a private school.")
                 .font(.body)
                 .lineLimit(nil)
                 .padding()

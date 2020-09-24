@@ -21,6 +21,7 @@ struct ContentView: View {
                     Text("Things I Am Passionate About")
                 }
             }
+            .navigationBarTitle("Favorite Things")
     }
 }
 
